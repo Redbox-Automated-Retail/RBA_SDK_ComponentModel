@@ -10,7 +10,6 @@
     <Product>RBA_SDK_ComponentModel</Product>
     <AssemblyTitle>RBA_SDK_ComponentModel</AssemblyTitle>
     <AssemblyVersion>1.10.13.0</AssemblyVersion>
-	<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
 <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
